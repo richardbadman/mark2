@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import getpass
 import glob
 import json
@@ -218,26 +219,43 @@ class UI:
 
         #main
         self.g_output      = urwid.ListBox(self.g_output_list)
+        #self.g_output_wrap = urwid.LineBox(urwid.AttrMap(self.g_output, 'output'))
         self.g_output_wrap = urwid.LineBox(urwid.AttrMap(self.g_output, 'output'))
         self.g_stats       = urwid.Text("")
+        #self.g_stats_min   = urwid.WidgetDisable(urwid.AttrMap(self.g_stats, 'stats'))
+        self.g_stats_min   = urwid.WidgetDisable(
+            urwid.AttrMap(
+                urwid.Text([('cpu', u" CPU: 20.4% "), ('mem', u" MEM: 66.2% "), ('load', u" LOAD: 0.5 1.5 1.2 "), ('players', u" PLAYERS: 18 of 52 ")], align='right'),
+                'stats'
+            )
+        )
 
         #player menu
         def escape():
             self.g_frame.focus_position='footer'
         self.g_pmenu = PMenuWrap(self.pmenu_actions, self.pmenu_reasons, self.run_command, escape)
 
-        g_sidebar = urwid.Pile((
-            ('pack', urwid.AttrMap(urwid.LineBox(self.g_stats, title='stats'), 'stats')),
-            urwid.AttrMap(urwid.LineBox(self.g_pmenu, title="players"), 'menu')))
+        #g_sidebar = urwid.Pile((
+        #    ('pack', urwid.AttrMap(urwid.LineBox(self.g_stats, title='stats'), 'stats')),
+        #    urwid.AttrMap(urwid.LineBox(self.g_pmenu, title="players"), 'menu')))
+        g_sidebar = urwid.AttrMap(self.g_pmenu, 'menu')
         g_main    = urwid.Columns((
-            urwid.WidgetDisable(urwid.AttrMap(self.g_output_wrap, 'console')),
+            urwid.WidgetDisable(urwid.AttrMap(self.g_output, 'console')),
             ('fixed', 31, g_sidebar)))
+        g_main_min = urwid.WidgetDisable(urwid.AttrMap(self.g_output, 'console'))
 
         #foot
         self.g_prompt = Prompt(self.get_players, self.run_command, ' > ')
-        g_prompt = urwid.AttrMap(self.g_prompt, 'prompt', 'prompt_focus')
+        g_foot = self.g_prompt
+        g_foot_min = urwid.Pile((
+            urwid.AttrMap(self.g_prompt, 'prompt', 'prompt_focus'),
+            self.g_stats_min
+            ))
 
-        self.g_frame = urwid.Frame(g_main, g_head, g_prompt, focus_part='footer')
+        g_frame = urwid.Frame(g_main, g_head, g_foot_min, focus_part='footer')
+        g_frame_min = urwid.Frame(g_main_min, g_head, g_foot_min, focus_part='footer')
+
+        self.g_frame = g_frame_min
 
         #log.addObserver(lambda m: self.append_output(str(m['message'])))
 
