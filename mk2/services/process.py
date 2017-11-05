@@ -72,7 +72,6 @@ class Process(Plugin):
     def build_command(self):
         cmd = []
         cmd.append(self.java_path)
-        #cmd.append('-server')
         cmd.extend(self.parent.config.get_jvm_options())
         cmd.append('-jar')
         cmd.append(self.parent.jar_file)
@@ -106,7 +105,9 @@ class Process(Plugin):
     def server_starting(self, e):
         self.stat_process = task.LoopingCall(self.update_stat, psutil.Process(e.pid))
         self.stat_process.start(self.parent.config['java.ps.interval'])
+        self.parent.console("jar file: %s" % self.parent.jar_file)
         self.parent.console("pid: %s" % e.pid)
+        self.parent.console("jvm options: %s" % ' '.join(self.parent.config.get_jvm_options()))
 
     def _server_started(self, e):
         self.parent.events.dispatch(events.ServerStarted())
