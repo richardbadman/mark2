@@ -221,11 +221,11 @@ class UI:
         self.g_output      = urwid.ListBox(self.g_output_list)
         #self.g_output_wrap = urwid.LineBox(urwid.AttrMap(self.g_output, 'output'))
         self.g_output_wrap = urwid.LineBox(urwid.AttrMap(self.g_output, 'output'))
-        self.g_stats       = urwid.Text("")
+        self.g_stats       = urwid.Text([('cpu', u" CPU: 20.4% "), ('mem', u" MEM: 66.2% "), ('load', u" LOAD: 0.5 1.5 1.2 "), ('players', u" PLAYERS: 18 of 52 ")], align='right')
         #self.g_stats_min   = urwid.WidgetDisable(urwid.AttrMap(self.g_stats, 'stats'))
         self.g_stats_min   = urwid.WidgetDisable(
             urwid.AttrMap(
-                urwid.Text([('cpu', u" CPU: 20.4% "), ('mem', u" MEM: 66.2% "), ('load', u" LOAD: 0.5 1.5 1.2 "), ('players', u" PLAYERS: 18 of 52 ")], align='right'),
+                self.g_stats,
                 'stats'
             )
         )
@@ -384,7 +384,12 @@ class UI:
         self.redraw()
 
     def set_stats(self, stats):
-        self.g_stats.set_text(stats)
+        self.g_stats.set_text([
+            ('cpu', u" CPU: {}% ".format(stats['cpu'])),
+            ('mem', u" MEM: {}% ".format(stats['memory'])),
+            ('load', u" LOAD: {} ".format(stats['load'])),
+            ('players', u" PLAYERS: {} of {} ".format(stats['players_current'], stats['players_max']))
+        ])
         self.redraw()
 
 
@@ -578,7 +583,7 @@ class UserClientFactory(ClientFactory):
 
     def server_stats(self, stats):
         self.stats.update(stats)
-        self.ui.set_stats(self.stats_template.safe_substitute(self.stats))
+        self.ui.set_stats(self.stats)
 
     def server_regex(self, patterns):
         self.make_filters(patterns)
