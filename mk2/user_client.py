@@ -707,19 +707,23 @@ def colorize(text):
     Convert minecraft color codes to ansi escape codes
     """
 
-    mappings_mc_ansi = {'0':30, '1':34, '2':32, '3':36, '4':31, '5':35, '6':33, '7':37,
-                        '8':30, '9':34, 'a':32, 'b':36, 'c':31, 'd':35, 'e':33, 'f':37, 'r':37}
+    mappings_mc_ansi = {'0':90, '1':34, '2':32, '3':36, '4':31, '5':35, '6':33, '7':97,
+                        '8':90, '9':94, 'a':92, 'b':96, 'c':91, 'd':95, 'e':33, 'f':37, 'r':37}
 #                        '8':38, '9':42, 'a':40, 'b':44, 'c':39, 'd':43, 'e':41, 'f':45}
+    formatting_codes = {'k', 'l', 'm', 'n', 'o'}
 
     if text.find(u'\u00A7') != -1:
         for code in mappings_mc_ansi:
             text = text.replace(u'\u00A7' + code, '\033[' + str(mappings_mc_ansi[code]) + u'm')
+        for code in formatting_codes:
+            text = text.replace(u'\u00A7' + code, '')
 
     """
     Convert ansi escape codes to urwid display attributes
     """
 
-    mappings_fg = {30: 'black', 31: 'light red', 32: 'light green', 33: 'yellow', 34: 'light blue', 35: 'light magenta', 36: 'light cyan', 37: 'dark gray'}
+    mappings_fg = {90: 'dark gray', 31: 'dark red', 32: 'dark green', 33: 'yellow', 34: 'dark blue', 35: 'dark magenta', 36: 'dark cyan',
+                   91: 'light red', 92: 'light green', 94: 'light blue', 95: 'light magenta', 96: 'light cyan', 97: 'light gray'}
     mappings_bg = {40: 'black', 41: 'dark red', 42: 'dark green', 43: 'brown', 44: 'dark blue', 45: 'dark magenta', 46: 'dark cyan', 47: 'light gray'}
 
     text_attributed = []
@@ -733,7 +737,7 @@ def colorize(text):
 
         if r:
             if r.group(2) != '':
-                foreground = 'white'
+                foreground = 'default'
                 background = 'default'
                 for code in filter(None, r.group(1).split(';')):
                     if (int(code) in mappings_fg):
