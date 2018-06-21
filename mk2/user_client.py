@@ -351,6 +351,7 @@ class UI:
         except IndexError:  # nothing in listbox
             pass
 
+        print('WTF @@@@@@@ {}'.format(line))
         self.g_output_list.append(urwid.Text(colorize(self.safe_unicode(console_repr(line)))))
         if scroll:
             self.g_output.focus_position += 1

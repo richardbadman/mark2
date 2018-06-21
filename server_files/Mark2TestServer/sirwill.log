@@ -1,0 +1,202 @@
+2018-06-18 20:49:24 # mark2 starting...
+2018-06-18 20:49:24 # starting Mark2TestServer
+2018-06-18 20:49:24 # jar file: forge-1.12.2-14.23.4.2705-universal.jar
+2018-06-18 20:49:24 # pid: 37030
+2018-06-18 20:49:24 # jvm options: -Xms1G -Xmx1G -Djline.terminal=jline.UnsupportedTerminal -XX:MaxPermSize=128M
+2018-06-18 20:49:24 | [RAW] Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=128M; support was removed in 8.0
+2018-06-18 20:49:27 | [RAW] 2018-06-18 20:49:27,415 main WARN Disabling terminal, you're running in an unsupported environment.
+2018-06-18 20:49:27 | [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+2018-06-18 20:49:27 | [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+2018-06-18 20:49:27 | [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+2018-06-18 20:49:27 | [FML]: Forge Mod Loader version 14.23.4.2705 for Minecraft 1.12.2 loading
+2018-06-18 20:49:27 | [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_111, running on Mac OS X:x86_64:10.12.6, installed at /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre
+2018-06-18 20:49:27 | [FML]: Searching /Users/richard/Documents/git/mark2/server_files/Mark2TestServer/./mods for mods
+2018-06-18 20:49:27 | [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from _spongeforge-1.12.2-2705-7.1.0-BETA-3172.jar
+2018-06-18 20:49:27 | [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+2018-06-18 20:49:27 | [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+2018-06-18 20:49:28 | [mixin]: SpongePowered MIXIN Subsystem Version=0.7.4 Source=file:/Users/richard/Documents/git/mark2/server_files/Mark2TestServer/./mods/_spongeforge-1.12.2-2705-7.1.0-BETA-3172.jar Service=LaunchWrapper Env=SERVER
+2018-06-18 20:49:28 | [mixin]: Compatibility level set to JAVA_8
+2018-06-18 20:49:28 | [mixin]: Adding new token provider org.spongepowered.mod.SpongeCoremod$TokenProvider to MixinEnvironment[DEFAULT]
+2018-06-18 20:49:28 | [mixin]: Adding new token provider org.spongepowered.mod.SpongeCoremod$TokenProvider to MixinEnvironment[PREINIT]
+2018-06-18 20:49:28 | [mixin]: Adding new token provider org.spongepowered.mod.SpongeCoremod$TokenProvider to MixinEnvironment[INIT]
+2018-06-18 20:49:28 | [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+2018-06-18 20:49:28 | [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+2018-06-18 20:49:28 | [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+2018-06-18 20:49:28 | [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+2018-06-18 20:49:30 | [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+2018-06-18 20:49:30 | [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+2018-06-18 20:49:30 | [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+2018-06-18 20:49:30 | [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@4642b71d
+2018-06-18 20:49:30 | [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+2018-06-18 20:49:31 | [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+2018-06-18 20:49:31 | [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+2018-06-18 20:49:31 | [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+2018-06-18 20:49:31 | [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+2018-06-18 20:49:39 | [WARN] [mixin]: Static binding violation: PRIVATE overwrite method initializeConnectionToPlayer in mixins.common.core.json:server.MixinPlayerList cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+2018-06-18 20:49:39 | [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+2018-06-18 20:49:50 | [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+2018-06-18 20:49:50 | [FML]: MinecraftForge v14.23.4.2705 Initialized
+2018-06-18 20:49:50 | [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+2018-06-18 20:49:50 | [FML]: Replaced 1036 ore ingredients
+2018-06-18 20:49:50 | [Sponge]: Found mcmod.info at jar:file:/Users/richard/Documents/git/mark2/server_files/Mark2TestServer/./mods/_spongeforge-1.12.2-2705-7.1.0-BETA-3172.jar!/mcmod.info
+2018-06-18 20:49:51 | [Sponge]: Creating injector in stage 'PRODUCTION'
+2018-06-18 20:51:44 | [FML]: Searching /Users/richard/Documents/git/mark2/server_files/Mark2TestServer/./mods for mods
+2018-06-18 20:51:50 | [FML]: Forge Mod Loader has identified 7 mods to load
+2018-06-18 20:51:53 | [WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+2018-06-18 20:51:53 | [WARN] [FML]: Missing English translation for spongeapi: assets/spongeapi/lang/en_us.lang
+2018-06-18 20:51:53 | [WARN] [FML]: Missing English translation for nucleus: assets/nucleus/lang/en_us.lang
+2018-06-18 20:51:58 | [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, spongeapi, sponge, nucleus] at CLIENT
+2018-06-18 20:51:58 | [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, spongeapi, sponge, nucleus] at SERVER
+2018-06-18 20:52:28 | [FML]: Processing ObjectHolder annotations
+2018-06-18 20:52:28 | [FML]: Found 1169 ObjectHolder annotations
+2018-06-18 20:52:28 | [FML]: Identifying ItemStackHolder annotations
+2018-06-18 20:52:28 | [FML]: Found 0 ItemStackHolder annotations
+2018-06-18 20:52:30 | [FML]: Configured a dormant chunk cache size of 0
+2018-06-18 20:52:30 | [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+2018-06-18 20:52:45 | [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+ 2018-06-18 21:00:16 # richard attached
+2018-06-18 21:00:28 > (richard) /help
+2018-06-18 21:00:49 | [ERROR] [net.minecraft.server.MinecraftServer]: Encountered an unexpected exception
+2018-06-18 21:01:12 | [RAW] net.minecraftforge.fml.common.LoaderExceptionModCrash: Caught exception from SpongeForge (sponge)
+2018-06-18 21:01:12 | [RAW]
+2018-06-18 21:01:12 | [RAW] Caused by: java.lang.NoClassDefFoundError: com/github/benmanes/caffeine/cache/NodeFactory$1
+2018-06-18 21:01:12 | [RAW] 	at com.github.benmanes.caffeine.cache.BoundedLocalCache.<init>(BoundedLocalCache.java:185) ~[BoundedLocalCache.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at com.github.benmanes.caffeine.cache.LocalCacheFactory$SS.<init>(LocalCacheFactory.java:4122) ~[LocalCacheFactory$SS.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at com.github.benmanes.caffeine.cache.LocalCacheFactory$SSA.<init>(LocalCacheFactory.java:4140) ~[LocalCacheFactory$SSA.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at com.github.benmanes.caffeine.cache.LocalCacheFactory.newBoundedLocalCache(LocalCacheFactory.java:170) ~[LocalCacheFactory.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at com.github.benmanes.caffeine.cache.BoundedLocalCache$BoundedLocalManualCache.<init>(BoundedLocalCache.java:3029) ~[BoundedLocalCache$BoundedLocalManualCache.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at com.github.benmanes.caffeine.cache.BoundedLocalCache$BoundedLocalManualCache.<init>(BoundedLocalCache.java:3025) ~[BoundedLocalCache$BoundedLocalManualCache.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at com.github.benmanes.caffeine.cache.Caffeine.build(Caffeine.java:851) ~[Caffeine.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at org.spongepowered.common.service.pagination.SpongePaginationService.<init>(SpongePaginationService.java:98) ~[SpongePaginationService.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at org.spongepowered.common.SpongeBootstrap.initializeServices(SpongeBootstrap.java:62) ~[SpongeBootstrap.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at org.spongepowered.mod.SpongeMod.onPreInit(SpongeMod.java:295) ~[SpongeMod.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.EventBus.post(EventBus.java:217) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218) ~[forge-1.12.2-14.23.4.2705-universal.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196) ~[forge-1.12.2-14.23.4.2705-universal.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.EventBus.post(EventBus.java:217) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at net.minecraftforge.fml.common.LoadController.redirect$onPost$zza000(LoadController.java:560) ~[LoadController.class:?]
+2018-06-18 21:01:12 | [RAW] 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135) ~[LoadController.class:?]
+2018-06-18 21:01:12 | [RAW] 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:627) ~[Loader.class:?]
+2018-06-18 21:01:12 | [RAW] 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) ~[FMLServerHandler.class:?]
+2018-06-18 21:01:12 | [RAW] 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:332) ~[FMLCommonHandler.class:?]
+2018-06-18 21:01:12 | [RAW] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) ~[nz.class:?]
+2018-06-18 21:01:12 | [RAW] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+2018-06-18 21:01:12 | [RAW] 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] Caused by: java.lang.ClassNotFoundException: com.github.benmanes.caffeine.cache.NodeFactory$1
+2018-06-18 21:01:12 | [RAW] 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at com.github.benmanes.caffeine.cache.BoundedLocalCache.<init>(BoundedLocalCache.java:185) ~[BoundedLocalCache.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at com.github.benmanes.caffeine.cache.LocalCacheFactory$SS.<init>(LocalCacheFactory.java:4122) ~[LocalCacheFactory$SS.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at com.github.benmanes.caffeine.cache.LocalCacheFactory$SSA.<init>(LocalCacheFactory.java:4140) ~[LocalCacheFactory$SSA.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at com.github.benmanes.caffeine.cache.LocalCacheFactory.newBoundedLocalCache(LocalCacheFactory.java:170) ~[LocalCacheFactory.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at com.github.benmanes.caffeine.cache.BoundedLocalCache$BoundedLocalManualCache.<init>(BoundedLocalCache.java:3029) ~[BoundedLocalCache$BoundedLocalManualCache.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at com.github.benmanes.caffeine.cache.BoundedLocalCache$BoundedLocalManualCache.<init>(BoundedLocalCache.java:3025) ~[BoundedLocalCache$BoundedLocalManualCache.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at com.github.benmanes.caffeine.cache.Caffeine.build(Caffeine.java:851) ~[Caffeine.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at org.spongepowered.common.service.pagination.SpongePaginationService.<init>(SpongePaginationService.java:98) ~[SpongePaginationService.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at org.spongepowered.common.SpongeBootstrap.initializeServices(SpongeBootstrap.java:62) ~[SpongeBootstrap.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at org.spongepowered.mod.SpongeMod.onPreInit(SpongeMod.java:295) ~[SpongeMod.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.EventBus.post(EventBus.java:217) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218) ~[forge-1.12.2-14.23.4.2705-universal.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196) ~[forge-1.12.2-14.23.4.2705-universal.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.EventBus.post(EventBus.java:217) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at net.minecraftforge.fml.common.LoadController.redirect$onPost$zza000(LoadController.java:560) ~[LoadController.class:?]
+2018-06-18 21:01:12 | [RAW] 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135) ~[LoadController.class:?]
+2018-06-18 21:01:12 | [RAW] 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:627) ~[Loader.class:?]
+2018-06-18 21:01:12 | [RAW] 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) ~[FMLServerHandler.class:?]
+2018-06-18 21:01:12 | [RAW] 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:332) ~[FMLCommonHandler.class:?]
+2018-06-18 21:01:12 | [RAW] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) ~[nz.class:?]
+2018-06-18 21:01:12 | [RAW] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) ~[MinecraftServer.class:?]
+2018-06-18 21:01:12 | [RAW] 	at java.lang.Thread.run(Thread.java:745) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] Caused by: java.lang.OutOfMemoryError: Java heap space
+2018-06-18 21:01:12 | [RAW] 	at java.util.jar.Attributes.<init>(Attributes.java:84) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at java.util.jar.Attributes.clone(Attributes.java:291) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at sun.net.www.protocol.jar.URLJarFile.getManifest(URLJarFile.java:155) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:147) ~[launchwrapper-1.12.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at com.github.benmanes.caffeine.cache.BoundedLocalCache.<init>(BoundedLocalCache.java:185) ~[BoundedLocalCache.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at com.github.benmanes.caffeine.cache.LocalCacheFactory$SS.<init>(LocalCacheFactory.java:4122) ~[LocalCacheFactory$SS.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at com.github.benmanes.caffeine.cache.LocalCacheFactory$SSA.<init>(LocalCacheFactory.java:4140) ~[LocalCacheFactory$SSA.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at com.github.benmanes.caffeine.cache.LocalCacheFactory.newBoundedLocalCache(LocalCacheFactory.java:170) ~[LocalCacheFactory.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at com.github.benmanes.caffeine.cache.BoundedLocalCache$BoundedLocalManualCache.<init>(BoundedLocalCache.java:3029) ~[BoundedLocalCache$BoundedLocalManualCache.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at com.github.benmanes.caffeine.cache.BoundedLocalCache$BoundedLocalManualCache.<init>(BoundedLocalCache.java:3025) ~[BoundedLocalCache$BoundedLocalManualCache.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at com.github.benmanes.caffeine.cache.Caffeine.build(Caffeine.java:851) ~[Caffeine.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at org.spongepowered.common.service.pagination.SpongePaginationService.<init>(SpongePaginationService.java:98) ~[SpongePaginationService.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at org.spongepowered.common.SpongeBootstrap.initializeServices(SpongeBootstrap.java:62) ~[SpongeBootstrap.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at org.spongepowered.mod.SpongeMod.onPreInit(SpongeMod.java:295) ~[SpongeMod.class:1.12.2-2705-7.1.0-BETA-3172]
+2018-06-18 21:01:12 | [RAW] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at com.google.common.eventbus.EventBus.post(EventBus.java:217) ~[minecraft_server.1.12.2.jar:?]
+2018-06-18 21:01:12 | [RAW] 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218) ~[LoadController.class:?]
+2018-06-18 21:01:12 | [RAW] 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196) ~[LoadController.class:?]
+2018-06-18 21:01:12 | [RAW] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_111]
+2018-06-18 21:01:12 | [RAW] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_111]
+2018-06-18 21:01:15 | [STDOUT]: [net.minecraft.crash.CrashReport:func_85057_a:301]: Negative index in crash report handler (0/5)
+2018-06-18 21:02:28 | [net.minecraft.server.MinecraftServer]: Stopping server
+2018-06-18 21:02:28 | [net.minecraft.server.MinecraftServer]: Saving worlds
+2018-06-18 21:02:28 | [FML]: The state engine was in incorrect state INITIALIZATION and forced into state SERVER_STOPPED. Errors may have been discarded.
+2018-06-18 21:04:01 | [RAW] Exception in thread "Server thread" [21:04:01] [Server thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.NoClassDefFoundError: org/spongepowered/api/event/GameStoppingEvent$Impl
+2018-06-18 21:04:01 | [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at org.spongepowered.api.event.SpongeEventFactory.createGameStoppingEvent(Unknown Source)
+2018-06-18 21:04:01 | [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at org.spongepowered.common.SpongeImpl.postShutdownEvents(SpongeImpl.java:236)
+2018-06-18 21:04:01 | [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraft.server.dedicated.DedicatedServer.handler$postGameStoppingEvent$zod000(DedicatedServer.java:830)
+2018-06-18 21:04:01 | [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71240_o(DedicatedServer.java)
+2018-06-18 21:04:01 | [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:589)
+2018-06-18 21:04:01 | [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.Thread.run(Thread.java:745)
+2018-06-18 21:04:01 | [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: Caused by: java.lang.ClassNotFoundException: org.spongepowered.api.event.GameStoppingEvent$Impl
+2018-06-18 21:04:01 | [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+2018-06-18 21:04:01 | [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+2018-06-18 21:04:01 | [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+2018-06-18 21:04:01 | [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	... 6 more
+2018-06-18 21:04:01 | [STDERR]: [java.lang.Throwable:printStackTrace:643]: Caused by: java.lang.OutOfMemoryError: Java heap space
+2018-06-18 21:04:03 | [net.minecraft.server.MinecraftServer]: Stopping server
+2018-06-18 21:04:03 | [net.minecraft.server.MinecraftServer]: Saving worlds

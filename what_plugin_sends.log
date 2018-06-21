@@ -1,0 +1,352 @@
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: ======================= Worlds =======================
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: Abyssal_Wasteland
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: 50
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 50, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: d97f7604-0d8b-4fec-afe0-28fff7a8a9e6
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -5389738699545701360
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: The Abyssal Wasteland, Generator: quark_realistic, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-1
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -1
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 32, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 492c2378-cc59-401f-b946-61894d615853
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -5070888939839651035
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Nether, Generator: quark_realistic, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-13
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -13
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 44, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: ed9d1e8e-8080-4014-92c8-a53544739fd3
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: 6183463128741170662
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Mercury, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-15
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -15
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 44, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 077d31e0-9192-4beb-9058-22d31c946543
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: 6632853761089657143
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Jupiter, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-16
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -16
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 44, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: cf953a9b-af23-4f5f-8a62-bf366f324bf8
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: 7271093511051448184
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Saturn, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-17
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -17
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 44, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: f10de86e-ddb3-49c6-85e4-9e3ab90a4d82
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: 4134377061042928578
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Uranus, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-18
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -18
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 44, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 9f724317-e1cf-40c2-a859-4472d4c61fa8
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -4424514091299998330
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Neptune, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-19
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -19
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 44, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 52c8e963-c0a9-474e-a246-e6043b1379c9
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -6221685965115285009
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Pluto, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-20
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -20
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 44, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 4385163e-2e5a-4174-9118-285896afb338
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: 6659726758964933618
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Ceres, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-21
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -21
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 44, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 27a1da88-8a72-448f-96d9-4b4e1abea8dd
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -536816640595881277
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Eris, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-22
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -22
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 44, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: b852b6ea-1553-4c59-90ec-22a8c3206e66
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -4368897827975021170
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Kepler 22b, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-28
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -28
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 68, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 42595827-50de-41c8-b15a-d546cbe635ef
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -8969037114493207241
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Moon, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-29
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -29
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 76, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: f8292e50-bc19-45f1-87ab-d327476930d5
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -6360745743048747510
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Mars, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-30
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -30
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 96, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 32a77d48-8871-4e39-bed8-859aff061fbc
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -3645547347188426540
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Asteroids, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-31
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -31
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 76, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: b7163630-2a53-4b02-809f-009969286d76
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -5195996401394160924
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Venus, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-32
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -32
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 44, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 4c144c9a-38a9-4ce8-b6a4-46206b698814
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: 6844743863892944041
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Io, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-33
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -33
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 44, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 09450918-3480-4769-8cca-562a8e8db95c
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -2710809605005812536
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Phobos, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-34
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -34
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 44, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 443b3949-783a-4a25-b8db-b2efcdeba935
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -6584058011995206677
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Europa, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-35
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -35
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 44, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 4129ba50-443e-44b8-bee7-d36a665ff7ce
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: 2524748233766105217
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Deimos, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-36
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -36
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 44, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 830ca11f-bcb8-40ad-9496-100429a8fc0a
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -8982408719453711405
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Triton, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-37
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -37
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 44, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 9d673f43-ac1d-482c-b750-324ac48bae6b
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -4642811353782989845
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Callisto, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-38
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -38
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 44, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: b134beb5-51fc-4fa9-ae1d-10db7410c4f4
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: 3569463873350446392
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Ganymede, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-39
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -39
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 44, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: fb6d645c-f44d-48a4-bc12-710498724fa2
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -6256248484220648779
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Rhea, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-40
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -40
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 44, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: b86ced6a-b223-4fed-9023-a4cc46f6f9b5
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: 7194286814774046138
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Titan, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-41
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -41
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 44, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 2c19b03c-1898-4afa-8e8d-b3695306dd08
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -6145588846020004955
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Oberon, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-42
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -42
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 44, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 178d7ad5-a120-45f9-a051-95f4ef59fd1f
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: 7741422475848648850
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Titania, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM-43
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: -43
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 44, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 4f67a0d8-6979-4137-bf6c-b3ed08e814c3
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -243702607545407305
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Iapetus, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM1
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: 1
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 100, y: 50, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 23a0708f-001b-4c20-89a9-aef1972e8652
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: the_end, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM144
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: 144
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 32, y: 64, z: -38
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: dbb36aa0-bd0a-4489-84dd-ededf3e01da2
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -556311925436662699
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: CompactMachines, Generator: quark_realistic, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM2
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: 2
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 64, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: bed113d1-4120-4512-8870-f50a355923d2
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -556311925436662699
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Storage Cell, Generator: quark_realistic, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM20
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: 20
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 279, y: 121, z: -321
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 55bd91e2-a4fb-4284-a6dc-81b0c83eea6c
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -6012391264120724951
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: betweenlands, Generator: quark_realistic, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM28885
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: 28885
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 70, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: cb69d0c5-cbba-4ac0-893e-a8785e9600a2
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -5070888939839651035
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: hunting_dim, Generator: quark_realistic, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: DIM7
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: 7
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 30, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 54c8d715-cc4f-431e-a294-7133ecb2032c
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -5070888939839651035
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: twilight_forest, Generator: quark_realistic, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: Omothol
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: 52
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 50, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: bd566335-315a-4f93-a1f5-b5b86cffe1c5
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -5070888939839651035
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: Omothol, Generator: quark_realistic, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: The_Beneath
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: 10
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 64, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 1414ad6b-3cbd-477f-875a-79915cf0339e
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -6012391264120724951
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: The Beneath, Generator: quark_realistic, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: The_Dark_Realm
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: 53
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 50, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 08f46bea-4e4a-4dc9-8fc6-9b4c3e5d2346
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -5070888939839651035
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: The Dark Realm, Generator: quark_realistic, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: The_Dreadlands
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: 51
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 50, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 11592b15-7fa9-4d19-9f13-aaed1bdae564
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -5070888939839651035
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: The Dreadlands, Generator: quark_realistic, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: farmworld
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: 3
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 72, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: d91d38b9-67e3-457a-8274-1a0b29aab9b5
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: 6104674950281364061
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: overworld, Generator: default, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]:  
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: World: world
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension ID: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Spawn Location: x: 0, y: 16, z: 0
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: UUID: 278f2b97-c45c-4729-a1d9-a2a9bcdeaa41
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Enabled: true. Loaded: true.
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Seed: -6012391264120724951
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Dimension: overworld, Generator: quark_realistic, Modifiers: none, Gamemode: survival, Difficulty: minecraft:normal
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: Hardcore: false, Load on Startup: true, PVP: true, Keep Spawn Loaded: true
+[16:35:35] [Server thread/INFO]: [DedicatedServer]: ======================== « » =========================
